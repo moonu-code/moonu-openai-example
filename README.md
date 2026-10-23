@@ -114,8 +114,3 @@ automaticamente para não alterar a disponibilidade do ramal sem sua decisão.
 Não há reconexão de sessão de IA nem rediscagem automática. HTTPS/WSS é exigido
 fora de localhost. `--allow-insecure` é exclusivo de homologação privada e não
 desabilita a validação do certificado do provedor.
-
-Para instalação, arquitetura, testes e publicação, consulte o
-[guia dos exemplos](examples/README.md). Mantenha `examples/common` junto deste diretório:
-ele contém a conexão Moonu e as proteções compartilhadas.
-# moonu-openai-example
